@@ -1,17 +1,11 @@
 ---
 song_number: 1
-title: "Song Title 01"
-performer: "Performer Name"
-rating: 0
+title: "The Color Violet"
+performer: "Tory Lanez"
+rating: 5
 ---
 
-_This is a placeholder page. Replace the front matter above with the song's real
-title, performer, and your rating (0-5), then replace this body text with your
-own review, written in Markdown._
 
-Write a first paragraph introducing the song: when it came out, the vibe it
-has, and why it earns a spot on your Songs of the Summer list.
+"The Color Violet" has been my summer staple for 4 year in a row now. Nothing compares to the electricity of this song - it feels like speeding down the parkway on a summer night with your friends, and nothing to do but feel free. 
 
-Write a second paragraph going deeper &mdash; the lyrics, the production, a
-memory it's tied to, or how it compares to other songs on the list. Add as
-many paragraphs as you like; this is just a starting point.
+
